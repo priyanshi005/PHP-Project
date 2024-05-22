@@ -1,4 +1,4 @@
-# My Project Title
+# Php Assignment
 
 ## Description
 A brief description of what your project does. For example:
